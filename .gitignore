@@ -3,3 +3,6 @@ config.json
 temp*
 *.css
 !style.css
+#ignore build directory except README.md
+!build/README.md
+build/*
